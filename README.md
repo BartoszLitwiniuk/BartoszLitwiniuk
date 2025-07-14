@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+## My open source contributions
+- [Backtrace-labs](https://github.com/backtrace-labs/) - libraries [android](https://github.com/backtrace-labs/backtrace-android), [java](https://github.com/backtrace-labs/backtrace-java), [log4j](https://github.com/backtrace-labs/backtrace-log4j), [log4j2](https://github.com/backtrace-labs/backtrace-log4j2)
+- [MLflow 2.17.1](https://github.com/mlflow/mlflow/releases/tag/v2.17.1) - [Improve CLI docs - attention about setting MLFLOW_TRACKING_URI](https://github.com/mlflow/mlflow/pull/13465)
+- [violincoding/mlflow-setup README.md fix](https://github.com/violincoding/mlflow-setup/pull/1)
+
 <!--
 **BartoszLitwiniuk/BartoszLitwiniuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
